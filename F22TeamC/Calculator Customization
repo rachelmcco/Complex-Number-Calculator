@@ -1,0 +1,13 @@
+How to make Rimplex Calculator customizable to your company
+
+Customizing Logo
+1.	Resize your logo to 165 × 54 pixels.
+2.	Rename your logo to "logo.png".
+3.	Save the logo to folder containing the "gui" and "numbers" folders.
+
+Customizing colors
+1.	Make a text file named color.txt.
+2.	Put in 3 RGB values for colors, separated by commas and no spaces. 
+3.	Color values should be in the RGB value range of 0-255
+4.  Put the button color on the first line and the text color on the second line.
+5.	Save the color file to the folder containing the "gui" and "numbers" folders.
